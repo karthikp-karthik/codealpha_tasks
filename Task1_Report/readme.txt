@@ -1,3 +1,10 @@
+# CodeAlpha IoT Internship Projects
+
+## Author
+Karthik P
+B.Tech ECE Student
+AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY
+
 Task 1: IoT in Smart Agriculture
 
 This task is a research report on the application of IoT in Smart Agriculture.
