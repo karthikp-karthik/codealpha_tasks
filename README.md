@@ -1,7 +1,7 @@
 # CodeAlpha IoT Internship Tasks
 
 This repository contains my completed tasks for the CodeAlpha IoT Internship in the domain of Internet of Things (IoT).
-
+This internship helped me gain practical knowledge in IoT concepts, simulation, and real-world applications.
 ---
 
 ## 📄 Task 1: IoT in Smart Agriculture
@@ -30,7 +30,7 @@ This repository contains my completed tasks for the CodeAlpha IoT Internship in 
 ---
 
 ## 👤 Author
-- Name: KARTHIK P
-- Department: ELECTRONICS AND COMMUNICATION ENGINEERING
-- COLLEGE: AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Name: Karthik P
+- Department: Electronics and Communication Engineering
+- College: Ahalia School of Engineering and Technology
 
