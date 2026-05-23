@@ -30,5 +30,7 @@ This repository contains my completed tasks for the CodeAlpha IoT Internship in 
 ---
 
 ## 👤 Author
-Karthik P  
-B.Tech ECE Student
+Name: KARTHIK P
+Department: ELECTRONICS AND COMMUNICATION ENGINEERING
+COLLEGE: AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY
+
