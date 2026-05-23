@@ -4,7 +4,7 @@ This repository contains my completed tasks for the CodeAlpha IoT Internship in 
 This internship helped me gain practical knowledge in IoT concepts, simulation, and real-world applications.
 ---
 
-## 📄 Task 1: IoT in Smart Agriculture
+## 📄 Task 1: Research Report - IoT in Real Life
 - Research report on IoT applications in agriculture  
 - Covers working mechanism, applications, advantages, challenges, and future scope  
 
@@ -17,7 +17,7 @@ This internship helped me gain practical knowledge in IoT concepts, simulation, 
 
 ---
 
-## 🌆 Task 3: IoT Case Study
+## 🌆 Task 3: Mini Project - IoT Case Study
 - Case study on the Future of IoT in Smart Cities  
 - Explores how IoT enables smart infrastructure, traffic management, energy efficiency, and urban automation  
 
