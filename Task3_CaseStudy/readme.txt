@@ -1,16 +1,16 @@
-# Task 3: IoT Case Study
+# Task 3: Mini Project - IoT Case Study
 
 ## 📌 Topic
-IoT and Artificial Intelligence Integration
+Future of IoT in Smart Cities
 
 ## 📄 Overview
-This case study explores the integration of IoT with Artificial Intelligence and how it enhances automation, data analysis, and decision-making in real-world applications.
+This case study explores the role of the Internet of Things (IoT) in developing smart cities and improving urban living.
 
 ## 📚 Contents
-- Introduction to IoT and AI
+- Introduction to IoT in Smart Cities
 - Working mechanism
-- Applications
+- Applications (smart traffic, smart energy, smart waste management)
 - Advantages and challenges
 - Future scope
 
-This report highlights the importance of combining IoT with AI for building smart and intelligent systems.
+This report highlights how IoT technologies enable smart infrastructure, efficient resource management, and automation in modern cities.
