@@ -1,5 +1,10 @@
 # Task 2: Sensor-Based IoT Simulation
 
+⚠️ **Important Note for Evaluators & Reviewers:** The simulation link included inside the initial PDF report submission has expired due to Tinkercad's automated collaboration timeouts. Please use the verified, permanent public link below to interact with the live circuit:
+
+🔗 **[Click Here to View Live Interactive Simulation](https://www.tinkercad.com/things/hbKosF69WKQ-smart-light-control-iot-simulation)**
+
+---
 ## 📌 Project Overview
 This project demonstrates a basic IoT system using Arduino simulation.
 
